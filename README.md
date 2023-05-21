@@ -1,7 +1,7 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
 
 ### Aim:
-To Interface a push button and generate an interrupt , simulate it using an led using proteus 
+To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
 ### Components required:
 STM32 CUBE IDE, Proteus 8 simulator .
